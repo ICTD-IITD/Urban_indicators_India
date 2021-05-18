@@ -7,10 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1jcAvQAtY-7iDZ20bi94bQjTijOTmF9Zv
 """
 
-from google.colab import drive #to retrieve data from drive 
-drive.mount('/content/drive/')
+# from google.colab import drive #to retrieve data from drive 
+# drive.mount('/content/drive/')
 
-cd 'drive/My Drive/Data/Places_data'
+# cd 'drive/My Drive/Data/Places_data'
 
 import numpy as np
 import pandas as pd
