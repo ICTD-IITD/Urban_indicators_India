@@ -1,0 +1,13 @@
+Amenities,Correlation_Coefficient
+local_government_office,0.54772
+school,0.3873
+police,0.35355
+doctor,0.33265
+train_station,
+department_store,0.3
+supermarket,0.81044
+primary_school,1.0
+taxi_stand,
+bus_station,
+hospital,0.82375
+bank,0.18898

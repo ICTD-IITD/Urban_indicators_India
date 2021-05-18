@@ -1,0 +1,13 @@
+Amenities,PeriUrban,Urban,Combined
+local_government_office,0.2411,0.23128,0.23835
+school,0.19691,0.19719,0.19699
+police,0.49469,0.40588,0.46982
+doctor,0.20445,0.25169,0.21768
+train_station,1.38313,0.87333,1.24039
+department_store,0.36824,0.29797,0.34856
+supermarket,0.24482,0.29345,0.25843
+primary_school,0.40672,0.2797,0.37115
+taxi_stand,1.41551,1.41827,1.41628
+bus_station,0.57009,0.51762,0.5554
+hospital,0.18264,0.1725,0.1798
+bank,0.2894,0.30205,0.29294

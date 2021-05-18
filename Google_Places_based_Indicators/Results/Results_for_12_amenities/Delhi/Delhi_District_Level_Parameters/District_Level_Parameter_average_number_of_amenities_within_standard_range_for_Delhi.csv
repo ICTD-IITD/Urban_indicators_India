@@ -1,0 +1,13 @@
+Amenities,PeriUrban,Urban,Combined
+local_government_office,37,50,42
+school,110,127,117
+police,9,11,10
+doctor,71,93,81
+train_station,0,0,0
+department_store,3,6,4
+supermarket,4,8,6
+primary_school,5,9,7
+taxi_stand,0,0,0
+bus_station,0,0,0
+hospital,77,109,91
+bank,17,23,20
