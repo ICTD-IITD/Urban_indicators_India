@@ -14,7 +14,8 @@ The code uses "DistrictName_year_all_indicators.csv", "district_coordinates.csv"
 
 To run the code follow these steps:
 
-* The WorldPop data being too big is stored on MTP drive
+* The WorldPop data being too big is stored on MTP drive. Link to dataset is - https://drive.google.com/file/d/1uCh1amKcQ9zjYZBFY65E09MXHICG2uA1/view?usp=sharing
+
 * Create a Google Collab notebook (with MTP drive credentials) and paste the code from "population_based_indicators.py" into it
 * Replace line 13 of code where its written {cd 'drive/My Drive/Data/Population_Based_Indicators'}, with {cd 'path_to_worldpop_data_in_MTP_drive'}
 * Place "DistrictName_year_all_indicators.csv", "district_coordinates.csv" & "DistrictName.pkl" files in the same directory as WorldPop data
