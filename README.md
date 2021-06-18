@@ -8,6 +8,7 @@ For any district the distribution of various kinds of amenities like school, hos
 * Which cities have the worst parts that are far away from essential amenities?
 * How many amenity sites are there within standard range, both overall as a district and also in different regions of the district?
 * What is the Population load on amenities, both overall as a district and also in different regions of the district?
+
 We divided cities in square grids of approximately 1 km square area and identified urbanised grids, then we used the lat- lon values of various amenity sites from Google Places to develop various accessibility and availability indicators. We then use WorldPop data which gives population at 100m x 100m granularity to analyse the population distribution in these urbanised grids and also to identify the load on amenity sites. This analysis has been done for 7 districts Bangalore, Chennai, Delhi, Gurgaon, Hyderabad, Kolkata and Mumbai. The various amenities considered by us were Education, Health, Utilities, Connectivity and Government Facilities. For more information visit - 
 ## Prerequisites
 * WordPop to download population data of a particular area
